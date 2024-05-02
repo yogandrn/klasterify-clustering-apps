@@ -1,6 +1,6 @@
 # klasterify
 
-A new Flutter project.
+Application used to cluster product search results from Tokopedia API using the K-Means algorithm.
 
 ## Getting Started
 
